@@ -5,11 +5,13 @@
 -	Phần mềm được sử dụng
 +	Visual Studio Code
 +	SQL Server
+  
 **2. Yêu cầu dành cho khách hàng**
 - Khách hàng sẽ chọn mức giá cần mua,loại trang sức, số lượng đánh giá,... theo nhu cầu. Hệ thống sẽ lọc ra các mẫu trang sức theo yêu cầu của khách hàng.
 - Khách hàng có thể xem thông số của sản phẩm, giá bán, hình ảnh bao quát của sản phẩm và có thể đặt mua nếu có nhu cầu.
 - Khách hàng phải tạo tài khoản và đăng nhập để có thể mua sản phẩm.
 - Khách hàng có thể xem lại lịch sử giao dịch và chỉnh sửa thông tin cá nhân.
+
 **3. Yêu cầu dành cho Admin**
 - Quản lý toàn bộ website. 
 - Thêm các sản phẩm mới ra mắt cho website, xóa, sửa các mặt hàng mà cửa hàng không còn kinh doanh.
