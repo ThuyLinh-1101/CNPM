@@ -1,9 +1,9 @@
 **1. Phạm vi của đồ án nằm trong giới hạn môn công nghệ phần mềm**
 -	Ngôn ngữ lập trình được sử dụng:
-  JavaScript
+  JavaScript,
  	SQL
 -	Phần mềm được sử dụng
-  Visual Studio Code
+  Visual Studio Code,
  	SQL Server
   
 **2. Yêu cầu dành cho khách hàng**
